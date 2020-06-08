@@ -1,2 +1,6 @@
-theme: jekyll-theme-cayman
-# remote_theme: benradford/Slate-and-Simple-Jekyll-Theme
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# theme: jekyll-theme-cayman
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
