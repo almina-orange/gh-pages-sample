@@ -1,7 +1,9 @@
-# Plugins
+# Plugins (previously gems:)
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # theme: jekyll-theme-cayman
 # remote_theme: aksakalli/jekyll-doc-theme@gh-pages
-remote_theme: thelehhman/texture
+# remote_theme: thelehhman/texture
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
