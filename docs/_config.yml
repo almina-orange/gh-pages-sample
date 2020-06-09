@@ -4,4 +4,4 @@ plugins:
 
 # theme: jekyll-theme-cayman
 # remote_theme: aksakalli/jekyll-doc-theme@gh-pages
-remote_theme: CloudCannon/urban-jekyll-template
+remote_theme: thelehhman/texture
